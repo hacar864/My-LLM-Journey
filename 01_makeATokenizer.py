@@ -47,7 +47,7 @@ words = decoder(tokens)
 print(words)
 
 # Inverse functions
-print(decoder(encoder(all_words))) # This should return the input.
+print(decoder(encoder(all_words))) # This should return the input
 
 
 
